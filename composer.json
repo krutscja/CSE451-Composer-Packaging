@@ -1,0 +1,18 @@
+{
+    "name": "krutscja/my-first-package",
+    "description": "This is my first package!",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Krutscja\\MyFirstPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jak Krutsch",
+            "email": "krutscja@miamioh.edu"
+        }
+    ],
+    "require": {}
+}
