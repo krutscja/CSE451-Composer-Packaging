@@ -1,13 +1,13 @@
 <?php 
 
 /*
- * (c) Your Name <your email>
+ * (c) Jak Krutsch <krutscja@miamioh.edu>
  *
  * This source file is subject to the MIT license that is bundled
  * with this source code in the file LICENSE.
  */
 
-namespace liererkt\MyFirstPackage;
+namespace krutscja\MyFirstPackage;
 
 class Hello
 {
