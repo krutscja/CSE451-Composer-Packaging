@@ -37,7 +37,7 @@ class OpenWeatherClient
 
         $data = json_decode($response->getBody(), true);
 
-        return new \Liererkt\MyFirstPackage\WeatherDay(
+        return new \Krutscja\MyFirstPackage\WeatherDay(
             new \DateTime('now'),
             $location,
             'imperial',
